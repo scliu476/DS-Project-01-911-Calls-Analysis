@@ -18,10 +18,10 @@ All the supporting materials are saved in the the folers with this README.md fil
 ### Libraries
 All the libraries that are going to be imported and used to run the codes are listed as follows:
 
-numpy
-pandas
-matplotlib
-seaborn
-IPython
-random
-missingno
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* IPython
+* random
+* missingno
