@@ -13,10 +13,10 @@ I am a preconstruction engineer/estimator in Hathaway Dinwiddie Construction Com
 All the codes are written and compiled under the environment of Jupyter Notebook.
 
 ### Supporting Materials
-All the supporting materials are saved in the the folers with this README.md file.
+All the supporting materials are saved in the same folder with this README.md file.
 
 ### Libraries
-All the libraries that are going to be imported and used to run the codes are listed as follows:
+All the libraries that are needed to be imported and used to run the codes are listed as follows:
 
 * numpy
 * pandas
@@ -25,3 +25,6 @@ All the libraries that are going to be imported and used to run the codes are li
 * IPython
 * random
 * missingno
+* sklearn
+* xgboost
+* lightgbm
