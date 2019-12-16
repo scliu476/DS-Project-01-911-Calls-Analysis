@@ -13,7 +13,12 @@ I am a preconstruction engineer/estimator in Hathaway Dinwiddie Construction Com
 All the codes are written and compiled under the environment of Jupyter Notebook.
 
 ### Supporting Materials
-All the supporting materials are saved in the same folder with this README.md file.
+All the supporting materials below are saved in the same folder with this README.md file.
+
+* Folder of images
+* Package of missingno
+* ML Capstone - Data.csv
+* visuals.py
 
 ### Libraries
 All the libraries that are needed to be imported and used to run the codes are listed as follows:
